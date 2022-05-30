@@ -1,0 +1,9 @@
+.banner{
+	min-height: 450px;
+	min-width: 1000px;
+	background: url(https://thietkehaithanh.com/wp-content/uploads/2019/01/thietkehaithanh-banner-laptop.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	margin-top: 10px;
+}
