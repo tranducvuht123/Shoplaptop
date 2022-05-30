@@ -1,1 +1,1 @@
-<a href="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/278247736_158460599968056_6452118301766996496_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=KillzecSY6kAX-PJLTS&_nc_ht=scontent.fdad1-2.fna&oh=00_AT-mbFio6_Cm9SxVKCKHDNnMOMAKyokkJl8Sc3a4m6cNQQ&oe=62946DCD" width="1200" alt="Trần Đức Vũ" />
+<a href="https://img.nhandan.com.vn/Files/Images/2020/07/26/giai_thuong_lon-1595747403778.jpg" width="1200" alt="Trần Đức Vũ" />
